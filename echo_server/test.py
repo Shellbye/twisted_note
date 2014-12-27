@@ -12,5 +12,5 @@ def test(port=1234, host="localhost", receive_max_size=1024):
 
 if __name__ == "__main__":
     print "i am test"
-    test()
+    # test()
     test(50000)
